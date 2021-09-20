@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #000;
+}
+
+#menu,
+#contact,
+#home,
+#about,
+#action {
+    display: none;
+}
+
+#menu.action,
+#contact.action,
+#home.action,
+#about.action,
+#action.action {
+    display: flex;
+}
+
