@@ -18,24 +18,29 @@ html {
 }
 
 .div1 {
-    background-image: url('../img/cameraSecreta.jpeg');
+    background-image: url('../img/pedraFilosofal.jpg');
 }
 .div2 {
-    background-image: url('../img/captain.jpg');
+    background-image: url('../img/cameraSecreta.jpg');
 }
 .div3 {
-    background-image: url('../img/prisioneiroAskaban.jpeg');
+    background-image: url('../img/prisioneiroAskaban.jpg');
 }
 .div4 {
-    background-image: url('../img/captain.jpg');
+    background-image: url('../img/caliceFogo.jpg');
 }
 .div5 {
-    background-image: url('../img/captain.jpg');
+    background-image: url('../img/ordemFenix.jpg');
 }
 .div6 {
-    background-image: url('../img/captain.jpg');
+    background-image: url('../img/enigmaPrincipe.jpg');
 }
 
-.text {
-    
+.div7 {
+    background-image: url('../img/reliquiasMorte1.jpg');
 }
+
+.div8 {
+    background-image: url('../img/reliquiasMorte2.jpg');
+}
+
