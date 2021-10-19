@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.parallax {
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    background-position: 50% 0 !important;
+    position: relative;
+}
+
+.div1 {
+    background-image: url('../img/cameraSecreta.jpeg');
+}
+.div2 {
+    background-image: url('../img/captain.jpg');
+}
+.div3 {
+    background-image: url('../img/prisioneiroAskaban.jpeg');
+}
+.div4 {
+    background-image: url('../img/captain.jpg');
+}
+.div5 {
+    background-image: url('../img/captain.jpg');
+}
+.div6 {
+    background-image: url('../img/captain.jpg');
+}
+
+.text {
+    
+}
