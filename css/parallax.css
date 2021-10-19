@@ -44,3 +44,7 @@ html {
     background-image: url('../img/reliquiasMorte2.jpg');
 }
 
+body {
+    background-color: transparent !important;  
+}
+
